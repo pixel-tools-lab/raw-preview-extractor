@@ -1,0 +1,27 @@
+END USER LICENSE AGREEMENT (EULA)
+RAW Preview Extractor - Pixel Tools Lab
+
+IMPORTANT: PLEASE READ CAREFULLY. BY INSTALLING OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND BY THIS EULA.
+
+1. LICENSE GRANT
+Pixel Tools Lab grants you a personal, worldwide, royalty-free, non-assignable, and non-exclusive right to use the compiled version of RAW Preview Extractor.
+
+2. RESTRICTIONS
+You are expressly prohibited from:
+a) Modifying, translating, or creating derivative works based on the Software.
+b) Reverse engineering, decompiling, or disassembling the compiled executable.
+c) Removing any proprietary notices, labels, or watermarks.
+d) Distributing the software for commercial gain or attempting to pass it off as your own creation.
+
+3. THIRD-PARTY OPEN-SOURCE DEPENDENCIES
+This software utilizes the following third-party command-line utilities for image processing. These utilities remain the property of their respective creators:
+- ExifTool: Copyright (c) 2003-2026, Phil Harvey. (https://exiftool.org/)
+- ImageMagick: Copyright (c) 1999-2026 ImageMagick Studio LLC. (https://imagemagick.org/)
+
+4. DISCLAIMER OF WARRANTY
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED WARRANTIES. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS BORNE BY YOU. 
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL PIXEL TOOLS LAB BE LIABLE FOR ANY DAMAGES (INCLUDING LOSS OF DATA OR CORRUPTION OF IMAGES) ARISING OUT OF THE USE OF THIS SOFTWARE.
+
+Copyright (c) 2026 Pixel Tools Lab. All rights reserved.
